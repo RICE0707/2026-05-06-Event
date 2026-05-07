@@ -1,0 +1,15 @@
+{
+  "global:files": {
+    "criteria": {
+      "trigger": "2023-01-11 16:49:31 +0100"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-01-11 16:49:31 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

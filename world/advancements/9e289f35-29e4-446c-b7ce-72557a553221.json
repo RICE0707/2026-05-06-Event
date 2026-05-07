@@ -1,0 +1,27 @@
+{
+  "global:files": {
+    "criteria": {
+      "trigger": "2023-01-01 16:27:26 +0100"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-01-01 16:27:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-01-02 10:00:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:swamp": "2023-01-01 16:27:26 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

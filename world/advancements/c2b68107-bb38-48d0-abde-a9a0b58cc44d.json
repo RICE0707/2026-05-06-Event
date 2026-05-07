@@ -1,0 +1,24 @@
+{
+  "global:files": {
+    "criteria": {
+      "trigger": "2023-01-15 20:43:44 +0100"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-01-15 20:43:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2023-01-15 20:43:45 +0100",
+      "minecraft:snowy_taiga": "2023-01-15 20:44:53 +0100",
+      "minecraft:swamp": "2023-01-22 14:50:21 +0100",
+      "minecraft:warm_ocean": "2023-01-22 14:46:12 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

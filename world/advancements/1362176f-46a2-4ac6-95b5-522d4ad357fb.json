@@ -1,0 +1,33 @@
+{
+  "global:files": {
+    "criteria": {
+      "trigger": "2023-01-28 15:34:32 +0100"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-01-28 15:34:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-01-28 15:34:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-01-28 15:34:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-01-28 15:34:47 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
